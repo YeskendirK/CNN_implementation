@@ -1,2 +1,4 @@
 # CNN_implementation
-1) Simple CNN classification example 2) Transfer Learning 3) PAC
+1) Simple CNN classification example
+2) Transfer Learning 
+3) PAC
